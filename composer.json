@@ -13,7 +13,7 @@
     "php": ">=7.1.0",
     "ext-bcmath": "*",
     "ext-json": "*",
-    "furqansiddiqui/http-client": "dev-master"
+    "furqansiddiqui/http-client": ">=v0.3.0"
   },
   "autoload": {
     "psr-4": {
